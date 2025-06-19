@@ -63,7 +63,7 @@ Average Turnaround time = 17.75
 This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
-- [Your Name]
+- Muhammad Usman Junaidy
 - University Student | Operating Systems Enthusiast
 
 ---
